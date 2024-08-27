@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sx-poc</string>
+    <string name="title_activity_main">sx-poc</string>
+    <string name="package_name">com.poc.sx.app</string>
+    <string name="custom_url_scheme">com.poc.sx.app</string>
+</resources>
